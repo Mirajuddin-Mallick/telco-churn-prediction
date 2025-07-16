@@ -193,7 +193,6 @@ nvidia-cusolver-cu11==11.4.0.1
 nvidia-cusparse-cu11==11.7.4.91
 nvidia-nccl-cu11==2.14.3
 nvidia-nvtx-cu11==11.7.91
-odfpy==1.4.1
 opencv-python==4.5.5.62
 openpyxl==3.0.10
 opt_einsum==3.4.0
