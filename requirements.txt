@@ -120,8 +120,9 @@ python-chess==1.999
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
 pyttsx3==2.98
+pytz==2025.1
+PyWavelets==1.8.0
 pywin32==306
-pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.2.1
 referencing==0.36.2
